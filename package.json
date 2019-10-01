@@ -1,16 +1,35 @@
 {
-  "name": "tabs-to-spaces",
+  "name": "tab-to-space",
   "version": "1.0.0",
-  "description": "",
+  "description": "Converts tabs to approproate number of spaces",
+  "homepage": "https://github.com/smartankur4u/tabs-to-spaces#readme",
+  "author": "Ankur Narkhede (https://github.com/smartankur4u)",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/standard --fix"
+    "test-lint": "./node_modules/.bin/standard --fix"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "tabs",
+    "spaces",
+    "tab",
+    "space",
+    "convert",
+    "indent",
+    "indentation"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10.0"
+  },
   "devDependencies": {
     "mocha": "^6.2.1",
     "standard": "^14.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartankur4u/tabs-to-spaces.git"
+  },
+  "bugs": {
+    "url": "https://github.com/smartankur4u/tabs-to-spaces/issues"
   }
 }
