@@ -1,0 +1,16 @@
+{
+  "name": "tabs-to-spaces",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/standard --fix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.2.1",
+    "standard": "^14.3.1"
+  }
+}
