@@ -32,5 +32,11 @@
   },
   "bugs": {
     "url": "https://github.com/smartankur4u/tabs-to-spaces/issues"
+  },
+  "standard": {
+    "globals": [
+      "describe",
+      "it"
+    ]
   }
 }
