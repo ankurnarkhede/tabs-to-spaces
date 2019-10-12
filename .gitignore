@@ -147,5 +147,5 @@ fabric.properties
 !.vscode/extensions.json
 
 # Custom ignore
-temp.js
+temp*.js
 package-lock.json
